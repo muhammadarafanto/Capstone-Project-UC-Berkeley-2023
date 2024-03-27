@@ -7,3 +7,5 @@ The performance metric that was used for our evaluation was the average daily pr
 Data was provided by GIG and analyzed by our team and used in our simulation which resulted in an increase of 10.8% in the average daily profit.
 
 Skills demonstrated in this notebook are Python, Numpy, Pandas, Object-Oriented Programming (OOP).
+
+
